@@ -1,0 +1,1 @@
+cat FIRST.BIN SECOND.BIN BOOT.BIN STUFF.BIN test.bin STUFF2.BIN kernel.bin > os.bin

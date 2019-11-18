@@ -1,0 +1,1 @@
+copy second.bin ..\..\build
